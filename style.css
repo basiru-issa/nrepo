@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+    background-color: #daa520;
+    font-style: italic;
+    font-family: "poppins", sans-serif;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+button {
+    border-radius: 2px;
+    border: none;
+    color: white;
+    background-color: gold;
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.container{
+    background: green;
+    color: white;
+    font-weight: bold;
+    padding-bottom: 23px;
+    width: 300px;
+    margin: auto;
+}
+
+h1{
+    color: goldenrod;
+}
+
+p{
+    font-style: italic;
+}
+
+.btn{
+    color: green;
+    width: 150px;
+    height: 50px;
+    padding-top: 5px;
+    font-weight: bold;
+    border-radius: 2px;
+}
+
+#purchase-el{
+    color: red;
+}
